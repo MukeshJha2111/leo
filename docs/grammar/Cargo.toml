@@ -10,7 +10,9 @@ keywords = [
   "cryptography",
   "leo",
   "programming-language",
-  "zero-knowledge"
+  "zero-knowledge",
+  "security",
+  "privacy"
 ]
 categories = [ "compilers", "cryptography", "web-programming" ]
 include = [ "Cargo.toml", "src", "README.md", "LICENSE.md" ]
